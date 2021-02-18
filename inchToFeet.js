@@ -1,5 +1,5 @@
 function inchToFeet (inch) {
-    let feet = inch / 12; 
+    const feet = inch / 12; 
     return feet; 
 }
 
